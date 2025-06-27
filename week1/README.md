@@ -4,4 +4,4 @@ This week’s task is to set up an AWS account and provide a screenshot of the A
 
 ## Screenshot
 
-See `billingpage.jpeg` for the evidence.
+See `awsbillingpage.jpg` for the evidence.
